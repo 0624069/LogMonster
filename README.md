@@ -1,2 +1,10 @@
 # LogMonster
-My first assignment
+#### It's a Log monitoring system 
+
+## 資管系 三年級
+
+### 成員: 
+#### 0624063 凌俊豪
+#### 0624069 陳晏瑤
+#### 0624079 郭維東
+#### 0624081 蕭士傑
